@@ -1,1 +1,4 @@
-# projects
+- Libraries:
+- numpy
+- pandas
+- scikit-learn (specifically train_test_split
